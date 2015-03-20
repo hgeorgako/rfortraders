@@ -1,0 +1,14 @@
+{
+  "CVX":
+  {
+    "Currency": "USD",
+    "Sector": "Basic Materials",
+    "Industry": "Major Integrated Oil & Gas"
+  },
+  "GOOG":
+  {
+    "Currency": "USD",
+    "Sector": "Technology",
+    "Industry": "Internet Information Providers"
+  } 
+}

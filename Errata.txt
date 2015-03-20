@@ -1,0 +1,67 @@
+
+* Page 6
+In figure 1.2, the price ladder should have an 8 
+as opposed to a 10 for the best bid price.
+
+* Page 8
+"Financial data is the the lifeblood..."
+Two the's in a row.
+
+* Page 30
+"...is the the concept of nonmutability of state[85]."
+Two the's in a row.
+
+* Page 33
+The comment for the code at the top of the page 
+should read: # "Create 100 standard normals ..." and not
+# "Greate 100 standard normals ..."
+
+* Page 37
+Towards the end of the first paragraph, 
+topper() should be toupper()
+
+* Page 37
+Change filter_symbols(c("MOT", "cvx", "123", "Gog2", "XLe"))
+to: filter_and_sort_symbols(c("MOT", "cvx", "123", "Gog2", "XLe"))
+
+* Page 63
+"...representation of the the time differences..."
+Two the's in a row.
+
+* Page 87
+"The graphs of a few popular continuous distributions are illustrated below:", should read:
+"The graphs of a few popular continuous distributions are illustrated in Fig 4.13"
+
+* Page 144
+The code title: " # 4. Histogram of trade duration", should be changed to 
+" Histogram of trade duration"
+
+* Page 221
+The code snippet at the bottom of the page has:
+"[1] 11".  It should be "## [1] 11". 
+
+* Page 234
+Insert ## before the number 0.9978 close to the end of the page.
+Should read "## 0.9978" instead of "0.9978"
+
+* Page 235
+Same as above.  Insert ## before the outputs. 
+"## [1] 0.597" and "## [1] 0.515"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
