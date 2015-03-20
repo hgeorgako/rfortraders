@@ -32,6 +32,29 @@ Two the's in a row.
 "The graphs of a few popular continuous distributions are illustrated below:", should read:
 "The graphs of a few popular continuous distributions are illustrated in Fig 4.13"
 
+* Page 88
+"Here is what the histogram of the outcomes looks like."
+should read:
+"Figure 4.14 illustrates the histogram of the outcomes."
+
+* Page 89
+"In the graph below, the mean shifts from 0.5 to 0.6."
+should read:
+"A shift in the mean from 0.5 to 0.6 can be seen in Figure 4.15."
+
+* Page 104
+"The scatter plot between the SPY and VXX time series looks like this:"
+should read:
+"The SPY and VXX time series scatter plot can be seen in Figure 5.11."
+
+* Page 124
+The function calculate_buy_sell_signals is defined but not used in subsequent
+examples. (TO EDITOR: No change required.)
+
+* Page 130 and 131
+The same code "plot data_out$spread" is used twice.  
+(TO EDITOR: No change required.)
+
 * Page 144
 The code title: " # 4. Histogram of trade duration", should be changed to 
 " Histogram of trade duration"
