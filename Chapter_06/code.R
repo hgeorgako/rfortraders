@@ -15,8 +15,8 @@ Sys.setenv(TZ = "UTC")
 prices <- cbind(pepsi[, 6], coke[, 6])
 price_changes <- apply(prices, 2, diff)
 plot(price_changes[, 1], price_changes[, 2],
-  xlab = "Coke price changes",
-  ylab = "Pepsi price changes",
+  xlab = "Pepsi price changes",
+  ylab = "Coke price changes",
   main = "Pepsi vs. Coke",
   cex.main = 0.8,
   cex.lab = 0.8,
